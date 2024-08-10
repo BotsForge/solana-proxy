@@ -7,7 +7,7 @@ license = "MIT"
 readme = "README.md"
 repository = "https://github.com/BotsForge/solana-proxy"
 homepage = "https://github.com/BotsForge/solana-proxy"
-packages = [{include = "solana-proxy"}]
+packages = [{include = "solana_proxy"}]
 
 [tool.poetry.dependencies]
 python = "^3.8"
