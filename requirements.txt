@@ -1,0 +1,4 @@
+solana>=0.34
+httpx>=0.27
+httpx-socks>=0.9
+proxystr>=2.0.5
